@@ -3,7 +3,7 @@ import numpy as np
 from pyzbar.pyzbar import decode
 import pyttsx3
 
-img = cv2.imread('C:\\Users\\paras\\OneDrive\\Documents\\VS CODE\\QRCode Authentication\\paras.png')
+img = cv2.imread('C:\\Users\\paras\\directory\\directory\\directory\\QRCode Authentication\\paras.png')
 # cap = cv2.VideoCapture(0)
 # cap.set(3,640)
 # cap.set(4,480)
